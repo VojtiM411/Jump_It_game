@@ -3,4 +3,4 @@
 ***
 Cílem mého projektu je vytvořit 2D platformovou hru v herním enginu Unity
 * Hra se skládá z několika úrovní obtížnosti
-* 
+* Hráč ovládá postavu klávesami WASD
