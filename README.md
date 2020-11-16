@@ -14,4 +14,5 @@ Každá úroveň bude obsahovat několik nástrah.
 Postava se pohybuje klávesami "WASD". Klávesa "e" slouží k otevření truhly. klávesa "esc" slouží k pozastaveněí hry.
 ***
 UI design: https://github.com/VojtiM411/Jump_It_game/tree/main/doc
+
 Unity: https://unity.com/
