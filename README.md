@@ -11,7 +11,7 @@ Pro zvládnutí každé úrovně potřebuje hráč najít klíč, který ho pust
 
 Každá úroveň bude obsahovat několik nástrah.
 
-Postava se pohybuje klávesami "WASD". Klávesa "e" slouží k otevření truhly. klávesa "esc" slouží k pozastaveněí hry.
+Postava se pohybuje klávesami "WASD". Klávesa "e" slouží k otevření truhly. klávesa "esc" slouží k pozastavení hry.
 ***
 UI design: https://github.com/VojtiM411/Jump_It_game/tree/main/doc
 
