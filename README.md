@@ -3,7 +3,11 @@
 
 **Autor: Vojtěch Mahdal**
 ***
-Cílem tohoto projektu je vytvoření singleplayer 2D platformové hry pro desktopové počítače. Pro tvorbu hry jsem se rozhodl pro populární engine Unity, který využívá programovací jazyk C#. 
+Cílem tohoto projektu je vytvoření singleplayer 2D platformové hry podle série tutoriálů na Youtube kanálu Brackeys.
+https://www.youtube.com/watch?v=on9nwbZngyw
+https://www.youtube.com/watch?v=zc8ac_qUXQY
+https://www.youtube.com/watch?v=ryISV_nH8qw
+Pro tvorbu hry jsem se rozhodl pro populární engine Unity, který využívá programovací jazyk C#. 
 ***
 Hra samotná se skládá z několika úrovní obtížnosti. Hráč má na splnění úrovně 3 životy. Pokud přijde o všechny životy, hráč spadne o úroveň níže.
 
