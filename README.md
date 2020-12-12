@@ -6,6 +6,7 @@
 Cílem tohoto projektu je vytvoření singleplayer 2D platformové hry podle série tutoriálů na Youtube kanálu Brackeys.
 
 - Základy práce: https://www.youtube.com/watch?v=on9nwbZngyw
+- Pohyb postavy: https://www.youtube.com/watch?v=dwcT-Dch0bA
 - Hlavní nabídka: https://www.youtube.com/watch?v=zc8ac_qUXQY
 - Práce s Gridem: https://www.youtube.com/watch?v=ryISV_nH8qw
 
